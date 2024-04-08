@@ -1,2 +1,2 @@
 # SpecflowProject2024
-Automation of TurnUp Portal using
+Automation of TurnUp Portal using SpecFlow
